@@ -1,5 +1,5 @@
 🚀 4-Day Intensive Interview Preparation
-OO기업 IT 개발 직무 면접을 위한 4일간의 몰입 학습 기록입니다.
+IT 개발 직무 면접을 위한 4일간의 학습 기록입니다.
 
 📅 Daily Log
 Day 1 (11/21): 파이썬 기초 문법 완벽 정리 & IT 용어(MSA, AWS) 개념 탑재
