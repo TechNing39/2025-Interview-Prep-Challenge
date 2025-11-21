@@ -4,8 +4,7 @@ for i in range(T):
     num=[]
     num2=[]
 
-    for i in range(N):
-        num.append(int(input()))
+    num=list(map(int,input().split()))
 
     for x in range(s-1,e):
         num2.append(num[x])
