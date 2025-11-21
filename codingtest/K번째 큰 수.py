@@ -8,7 +8,7 @@ for i in range(N):
             res.add(num[i]+num[j]+num[m])
            
 result=list(res)
-result.append(result.sort(reverse=True))
+result.sort(reverse=True)
 print(result)
 print(result[K-1])
 
