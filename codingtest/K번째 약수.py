@@ -1,10 +1,14 @@
 N,K=map(int,input().split())
 
 result=[]
-a=[]
+
 for i in range(1,N+1):
     if(N%i==0):
         result.append(i)
 
-print(result[K-1])
+
+if len(result)<K:
+    print(-1)
+else:
+    print(result[K-1])
 
